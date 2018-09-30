@@ -1,1 +1,3 @@
 i am on Git Dev ops training
+
+I am understanding the git now
